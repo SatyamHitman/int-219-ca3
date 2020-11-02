@@ -1,0 +1,43 @@
+
+.navbar{
+  background-color: #393939;
+}
+
+.navbar-brand{
+  
+}
+
+/* .card{
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.53);
+} */
+
+.carousel-caption{
+  font-size: 10px;
+
+}
+.follow-us{
+  text-align: center;
+  /* font-weight: bolder; */
+  font:  small-caps bold 12px/30px Georgia, serif;
+  color: #606060;
+}
+.follow-para{
+  line-height: 10%;
+}
+.followus-logo{
+  padding-left: 37%;
+}
+.list_item{
+  list-style-type: square;
+}
+.register{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.contact_form{
+  border: transparent;
+  background: transparent;
+  padding-left: 20%;
+  padding-right: 20%;
+}
